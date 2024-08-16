@@ -37,11 +37,11 @@ I will be updating this section with my daily progress, including the challenges
 - **Project Worked On**:
   - Band Name Generator
 - **Challenges**:
-  - Differentiating between data types like integers, floats, strings, and booleans.
-  - Choosing appropriate and meaningful variable names.
+  - Entering text when a number is expected
   - Encountered syntax, indentation, and type errors when doing string manipulation.
+  - Choosing appropriate and meaningful variable names.
 - **Solutions**: 
-  - Practice creating variables of different types and using the type() function to check their types.
+  - Practice creating variables of different types and using the type() function to check their      types.
   - Follow naming conventions like using lowercase letters and underscores.
   - Carefully read error messages and debug step by step. Practice writing clean and well-indented code.
 ### Day 2: [13-08-2024]
@@ -54,39 +54,33 @@ I will be updating this section with my daily progress, including the challenges
   - Tip Calculator
 - **Challenges**:
   - Misunderstanding how to calculate the tip percentage correctly.
-  - Handling Arithmetic Exception(Dividing a number by zero)
-  - Got unexpected results when converting the types.
+  - Ensuring that the user inputs valid data
+  - Ensuring the final amount is displayed correctly, especially with two decimal places.
 - **Solutions**: 
-  - Tried to add the percentage directly to the bill amount instead of calculating the percentage of the bill.
-  - Using the choice function in the random module to generate random values from the list.
+  - Tried to add the percentage directly to the bill amount instead of calculating the         
+    percentage of the bill.
+  - Use conditional statements to check the input and handle invalid entries gracefully
+  - Use the round() function or formatted strings to control the output
 ### Day 3: [14-08-2024]
 - **Concepts Learned**:
   - Control Flow and Logical Operators
-  - Type Error, Type Checking, and Type Conversion
-  - Number Manipulation and F Strings
+  - If, Elif and Nested If Statements
 - **Project Worked On**:
-  - BMI Calculator with Interpretations
+  - Python Pizza
   - Treasure Island
 - **Challenges**:
   - Grasping how if, elif, and else statements work.
-  - Understanding the difference between for and while loops and knowing when to use each.
-  - Working with lists, including indexing, slicing, and list comprehension.
+  - Making the game engaging and user-friendly.
 - **Solutions**: 
   - Practice writing simple conditional statements and gradually increase complexity.
-  - Write small programs that use both for and while loops.
-  - Practice creating, modifying, and iterating over lists.
-  - Using the choice function in the random module to generate random values from the list.
-
+  - Use functions to break down the game into smaller, manageable parts. 
 ### Day 4: [15-08-2024]
 - **Concepts Learned**:
-  - Understanding Data Types and How to Manipulate Strings
-  - Type Error, Type Checking, and Type Conversion
-  - Number Manipulation and F Strings
+  - Randomisation and Python Lists
+  - Write small programs that use both for and while loops.
 - **Project Worked On**:
-  - BMI Calculator
-  - Tip Calculator
+  - Rock, Paper and Scissors using Ascii Art.
 - **Challenges**:
-  - Grasping how if, elif, and else statements work.
   - Understanding the difference between for and while loops and knowing when to use each.
   - Working with lists, including indexing, slicing, and list comprehension.
 - **Solutions**: 
