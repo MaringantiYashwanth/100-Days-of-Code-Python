@@ -53,13 +53,11 @@ I will be updating this section with my daily progress, including the challenges
   - BMI Calculator
   - Tip Calculator
 - **Challenges**:
+  - Misunderstanding how to calculate the tip percentage correctly.
+  - Handling Arithmetic Exception(Dividing a number by zero)
   - Got unexpected results when converting the types.
-  - Understanding the difference between for and while loops and knowing when to use each.
-  - Working with lists, including indexing, slicing, and list comprehension.
 - **Solutions**: 
-  - Practice writing simple conditional statements and gradually increase complexity.
-  - Write small programs that use both for and while loops.
-  - Practice creating, modifying, and iterating over lists.
+  - Tried to add the percentage directly to the bill amount instead of calculating the percentage of the bill.
   - Using the choice function in the random module to generate random values from the list.
 ### Day 3: [14-08-2024]
 - **Concepts Learned**:
@@ -67,8 +65,8 @@ I will be updating this section with my daily progress, including the challenges
   - Type Error, Type Checking, and Type Conversion
   - Number Manipulation and F Strings
 - **Project Worked On**:
-  - BMI Calculator
-  - Tip Calculator
+  - BMI Calculator with Interpretations
+  - Treasure Island
 - **Challenges**:
   - Grasping how if, elif, and else statements work.
   - Understanding the difference between for and while loops and knowing when to use each.
